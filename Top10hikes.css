@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+}
+body {
+   height: 100%;
+}
+
+header {
+    background-color: Green;
+    padding:5px;
+    font-size: ;
+    display: block;
+    color: Orange;
+    width: ;
+}
+h1, p {
+    text-align: center;
+}
+nav li {
+    display: inline;
+    padding: 100px 50px;
+}
+
+img {
+    display: dock;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 100%;
+    margin-top: 20px;
+}
+
+nav ul{
+
+    text-align: center;
+    padding: 20px 0;
+}
+a {
+    color: ;
+}
+section {
+    width: ;
+    display: inline-block;
+}
+.rtcolumn {
+float:right;
+}
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:;
+    text-align:;
+    padding:5px;
+    display: block;
+}
